@@ -1,2 +1,2 @@
-# potatomic-shells
-my nix-shell templates
+# nix-templates
+my nix templates
